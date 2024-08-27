@@ -53,7 +53,12 @@ const menuData = {
         { name: "Egg Maggi", image: "https://t4.ftcdn.net/jpg/03/54/78/45/240_F_354784596_SmPaK8Tp0j5kQLfuBSNUrDXp2PZFlXZ4.jpg", fullPrice: 35, halfPrice: null },
         { name: "Double Egg Maggi", image: "https://t4.ftcdn.net/jpg/04/47/20/79/240_F_447207931_UHjYsVFHlriwtzF9oQ3pFN02M1AL4vBU.jpg", fullPrice: 50, halfPrice: null },
         { name: "Cheese Maggi", image: "https://t4.ftcdn.net/jpg/03/98/52/19/240_F_398521925_HnLesWck6nKLMnbD0M1tW42sHCCiHD9O.jpg", fullPrice: 40, halfPrice: null },
-        { name: "Pouch Maggi", image: "https://t3.ftcdn.net/jpg/09/05/18/62/240_F_905186221_SBtBnFc91BmxoGdV621MdHmzCblO9JJY.jpg", fullPrice: 40, halfPrice: null }
+        { name: "Pouch Maggi", image: "https://t3.ftcdn.net/jpg/09/05/18/62/240_F_905186221_SBtBnFc91BmxoGdV621MdHmzCblO9JJY.jpg", fullPrice: 40, halfPrice: null },
+        { name: "Korean chicken Maggi", image: "KoreanchickenMaggi.jpeg", fullPrice: 70, halfPrice: 60 },
+        { name: "Korean kimchi", image: "Koreankimchi.jpeg", fullPrice: 60, halfPrice: null },
+        { name: "Korean cheese", image: "Koreacheese.jpeg", fullPrice: 60, halfPrice: null },
+        { name: "Korean veg", image: "Koreanveg.jpeg", fullPrice: 60, halfPrice: null }
+
     ],
     beverages: [
         { name: "Hot Milk", image: "https://t4.ftcdn.net/jpg/00/39/31/23/240_F_39312323_xTdVf6Ay9smjJvzZr0TeY0ymzXh7ZAYM.jpg", fullPrice: 20, halfPrice: null },
